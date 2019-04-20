@@ -1,2 +1,3 @@
 xyx
 amend
+commit2
