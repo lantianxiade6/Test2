@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 txt in develop
+add after push
+x
+=======
+add after push
+txt in develop
+>>>>>>> 43be915... commit after push~
